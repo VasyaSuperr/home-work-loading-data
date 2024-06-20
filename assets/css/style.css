@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+.wrapperDogCard {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 300px;
+  width: 100%;
+  padding: 20px;
+  box-shadow: 0 0 5px purple;
+}
+
+.dogImage {
+  width: 100%;
+}
+
+.breedDog {
+  text-align: center;
+}
